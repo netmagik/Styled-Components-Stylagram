@@ -4,7 +4,7 @@
 
 <strong>Based on <a href="https://www.robinwieruch.de/react-styled-components">Robin Wieruch Tutorial</a></strong>
 
-- [Screenshot:] (https://www.dropbox.com/s/2odg7e514jf9ljl/Screen%20Shot%202020-08-20%20at%204.57.39%20PM.png?dl=0)
+- [Screenshot:] (<img width="1076" alt="Screen Shot 2020-08-20 at 4 57 39 PM" src="https://user-images.githubusercontent.com/3833560/90825436-e6389c00-e306-11ea-9d90-79dd59b63fca.png">)
 
 ## Built With
 - [React](https://reactjs.org/)
