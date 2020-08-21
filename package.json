@@ -9,9 +9,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "styled-components": "^5.1.1",
-    "homepage": "https://netmagik.github.io/Styled-Components-Stylagram/"
+    "styled-components": "^5.1.1"
   },
+    "homepage": "https://netmagik.github.io/Styled-Components-Stylagram/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
